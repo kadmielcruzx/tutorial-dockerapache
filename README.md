@@ -1,8 +1,9 @@
 # tutorial-dockerapache
 
-atualize o banco de pacotes com 
+atualize o banco de dados de pacotes com 
 ####
 > sudo apt-get update
+
 
 instalando o Docker .É necessario adicionar ao sistema a chave GPG oficial do repositório do Docker:
 
